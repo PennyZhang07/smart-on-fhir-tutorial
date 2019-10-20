@@ -1,24 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@PennyZhang07 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-24
-621.9kcerner/smart-on-fhir-tutorial
- Code Issues 2 Pull requests 1 Actions Projects 0 Security Insights
-smart-on-fhir-tutorial/example-smart-app/src/js/example-smart-app.js
-@kpshek kpshek publish: Merge pull request #55 from cerner/uplift-dependencies
-fdcd5ff on Jun 5, 2018
-132 lines (111 sloc)  3.73 KB
-  
 (function(window){
   window.extractData = function() {
     var ret = $.Deferred();
@@ -150,15 +129,3 @@ fdcd5ff on Jun 5, 2018
   };
 
 })(window);
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
